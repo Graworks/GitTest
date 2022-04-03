@@ -6,6 +6,5 @@ public class Main {
         System.out.println("Hello GIT");
         System.out.println("Added later");
         System.out.println("Added after first commit");
-        System.out.println("Added after cloning");
     }
 }
